@@ -11,7 +11,6 @@
         'PREGUNTA 2. ¿Se ejecutarían bien?
 #End Region
 
-
 #Region "Inferencias"
         Dim x = 5
         Dim hello = "Hola mundo"
